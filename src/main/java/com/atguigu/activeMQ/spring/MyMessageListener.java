@@ -8,7 +8,7 @@ import javax.jms.MessageListener;
 import javax.jms.TextMessage;
 
 /**
- * @description:
+ * @description: spring整合MQ监听生产者
  * @author: Andy
  * @time: 2021/2/2 22:09
  */
